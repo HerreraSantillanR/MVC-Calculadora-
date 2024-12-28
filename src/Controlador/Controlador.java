@@ -9,7 +9,7 @@ import Vista.Vista;
 
 /**
  *
- * @author HSR
+ * @author Herrera Santiilan
  */
 public class Controlador {
    
